@@ -49,6 +49,10 @@ body{
     cursor: pointer;
 }
 
+.corazon:hover{
+    transform: scale(1.05);
+}
+
 #unidades{
     background-color: rgb(0, 140, 255);
     height: 100%;
