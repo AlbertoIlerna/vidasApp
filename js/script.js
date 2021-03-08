@@ -18,4 +18,3 @@ corazon1.addEventListener("click", quitarVida1);
 corazon2.addEventListener("click", quitarVida2);
 corazon3.addEventListener("click", quitarVida3);
 
-//  Comentario
